@@ -59,7 +59,7 @@ The project involves the following tasks:
 ## Installation and Setup
 
 1. Clone this repository to your local machine:
-git clone https://github.com/Mohammed-Mebarek-Mecheter/European-Football-Analysis.git
+[https://github.com/Bharani2506/European-Football-Analysis.git]
 
 2. Install the required Python libraries:
 
